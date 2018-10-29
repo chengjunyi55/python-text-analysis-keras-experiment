@@ -1,3 +1,4 @@
 # python-text-analysis-keras-experiment
 An experiment of Python text analysis using Keras.
-tutorial: https://realpython.com/python-keras-text-classification/
+Tutorial: https://realpython.com/python-keras-text-classification/
+Library used: [Pandas](https://pandas.pydata.org)
